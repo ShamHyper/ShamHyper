@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://shamhyperprojects.ru/standard%20(1).gif" width="100"/>
+  <img src="https://i.imgur.com/Qvkro6o.gifv" width="100"/>
 </div>
