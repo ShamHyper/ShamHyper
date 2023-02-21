@@ -6,9 +6,7 @@
 <div align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShamHyper&theme=dark"/></a>
 </div>
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamHyper&&layout=compact&langs_count=8&theme=dark&show_icons=true"/></a>
-</div>
+
 
 
 
