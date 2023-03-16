@@ -3,14 +3,6 @@
 </div>
 
 ***
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShamHyper&theme=dark"/></a>
-</div>
-<div align="center">
-<img src="https://sham-hyper-y7vv.vercel.app/api/top-langs/?username=ShamHyper&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
-***
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="75" height="75"/>&nbsp;
