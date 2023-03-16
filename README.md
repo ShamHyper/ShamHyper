@@ -7,7 +7,7 @@
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShamHyper&theme=dark"/></a>
 </div>
 <div align="center">
-<img src="https://sham-hyper.vercel.app/api/top-langs/?username=ShamHyper&layout=compact&langs_count=10&theme=dark"/>
+<img src="https://sham-hyper-y7vv.vercel.app/api/top-langs/?username=ShamHyper&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ***
