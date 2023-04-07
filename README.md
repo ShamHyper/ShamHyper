@@ -28,7 +28,7 @@
 
 **My Steam Profile** *(from [SteamID.pro](https://steamid.pro/lookup/76561198312705176))*
 
-* **Worth:** $7916
+* **Worth:** $7933
 * **Games owned:** 523
-* **Games played:** 417 *(79%)*
-* **Hours on record:** 6824h 11m
+* **Games played:** 415 *(79%)*
+* **Hours on record:** 7072h 13m
