@@ -1,4 +1,4 @@
-![image](https://github.com/ShamHyper/ShamHyper/assets/104412752/501fc234-28b1-45ab-9ee1-9cc95fee3a84)<div id="header" align="center">
+
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQxYTFmNzdjYjQyMGEyMDRhOTc3YWIyZDEzZjk0MzRmZDcyZTg3YyZjdD1n/aXH2nQeuLGNjgbNJ6J/giphy.gif" width="666"/>
 </div>
 
