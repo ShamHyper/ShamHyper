@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![image](https://github.com/ShamHyper/ShamHyper/assets/104412752/501fc234-28b1-45ab-9ee1-9cc95fee3a84)<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQxYTFmNzdjYjQyMGEyMDRhOTc3YWIyZDEzZjk0MzRmZDcyZTg3YyZjdD1n/aXH2nQeuLGNjgbNJ6J/giphy.gif" width="666"/>
 </div>
 
@@ -41,7 +41,8 @@
 
 **My Steam Profile** *(from [SteamID.pro](https://steamid.pro/lookup/76561198312705176))*
 
-* **Worth:** $8111
-* **Games owned:** 553
-* **Games played:** 430 *(77.7%)*
-* **Hours on record:** 7590h 33m
+* **Worth:** $8131
+* **Games owned:** 554
+* **Games played:** 432 *(77.978339350181%)*
+* **Hours on record:** 7635h 13m
+
