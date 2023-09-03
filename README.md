@@ -1,9 +1,7 @@
-
+<div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQxYTFmNzdjYjQyMGEyMDRhOTc3YWIyZDEzZjk0MzRmZDcyZTg3YyZjdD1n/aXH2nQeuLGNjgbNJ6J/giphy.gif" width="666"/>
 </div>
-
 ***
-
 <div align="center">
   <h1> My bros
   <br>
@@ -36,13 +34,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premier"  alt="Premier" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AfterEffects"  alt="AfterEffects" width="75" height="75"/>&nbsp;
 </div>
-
 ***
-
 **My Steam Profile** *(from [SteamID.pro](https://steamid.pro/lookup/76561198312705176))*
-
 * **Worth:** $8131
 * **Games owned:** 554
 * **Games played:** 432 *(77.978339350181%)*
 * **Hours on record:** 7635h 13m
-
