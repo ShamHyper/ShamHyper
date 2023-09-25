@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQxYTFmNzdjYjQyMGEyMDRhOTc3YWIyZDEzZjk0MzRmZDcyZTg3YyZjdD1n/aXH2nQeuLGNjgbNJ6J/giphy.gif" width="666"/>
 </div>
+<div align="center">
+   <a href="https://wakatime.com/@c7d88764-ae42-4c5b-a8ad-61e0f8f235ce"><img src="https://wakatime.com/badge/user/c7d88764-ae42-4c5b-a8ad-61e0f8f235ce.svg" alt="Total time coded since Aug 13 2023" /></a>
+</div>
 
 ***
 <div align="center">
