@@ -30,14 +30,6 @@
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="LUA" alt="LUA" width="75" height="75" align="center"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="75" height="75" align="center"/>&nbsp;
-  <h2>Programs and IDE</h2>
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="75" height="75" align="center"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS"  alt="VS" width="75" height="75" align="center"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="75" height="75" align="center"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"  alt="Photoshop" width="75" height="75" align="center"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premier"  alt="Premier" width="75" height="75" align="center"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AfterEffects"  alt="AfterEffects" width="75" height="75" align="center"/>&nbsp;
 </div>
 
 **My Steam Profile** *(from [SteamID.pro](https://steamid.pro/lookup/76561198312705176))*
