@@ -1,8 +1,5 @@
 <div align="center">
-  <img width="1920" alt="1920 768" src="https://i.imgur.com/EUbdFuV.png">
-</div>
-<div align="center">
-   <a href="https://wakatime.com/@c7d88764-ae42-4c5b-a8ad-61e0f8f235ce"><img src="https://wakatime.com/badge/user/c7d88764-ae42-4c5b-a8ad-61e0f8f235ce.svg" alt="Total time coded since Aug 13 2023" /></a>
+  <img width="1256" src="https://i.imgur.com/EUbdFuV.png">
 </div>
 
 ***
@@ -26,4 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="75" height="75" align="center"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="LUA" alt="LUA" width="75" height="75" align="center"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="75" height="75" align="center"/>&nbsp;
+</div>
+
+***
+<div align="center">
+   <a href="https://wakatime.com/@c7d88764-ae42-4c5b-a8ad-61e0f8f235ce"><img src="https://wakatime.com/badge/user/c7d88764-ae42-4c5b-a8ad-61e0f8f235ce.svg" alt="Total time coded since Aug 13 2023" /></a>
 </div>
