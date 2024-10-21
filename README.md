@@ -1,9 +1,4 @@
 <div align="center">
-
-  <h1>💫 About Me:</h1>
-  <h3>🤖Focused on AI and human's QOL</h3>
-
-  <br>
   <h1>💻 Tech Stack:</h1>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
